@@ -1,7 +1,7 @@
 # Pose2Sim
 
 __Code and instructions have been transferred to__ \
-__[https://gitlab.inria.fr/perfanalytics/pose2sim](https://github.com/perfanalytics/pose2sim)__
+__[https://github.com/perfanalytics/pose2sim](https://github.com/perfanalytics/pose2sim)__
 
 This Python repository offers a way to perform a markerless kinematic analysis from multiple calibrated views as a unified workflow from an OpenPose input to an OpenSim result.
 
